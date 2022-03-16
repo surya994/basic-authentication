@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5VYnlXMYiR1PCI3wUnnI/M+VIZy/fZ0bw2/q1LQuqBBhgBjw2zPwpBtahZ/VgWVxujula+HMKaI2HNd2lEslJw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\acer\\Downloads\\Music\\TugasValidation\\TugasValidation\\TugasValidation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\acer\\.nuget\\packages\\bcrypt.net-core\\1.6.0\\bcrypt.net-core.1.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
